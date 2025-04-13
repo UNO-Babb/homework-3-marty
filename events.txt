@@ -1,0 +1,6 @@
+Turn: cat
+3: Cheese
+5: Trap
+7: Catnip
+9: Shortcut
+10: Trap
